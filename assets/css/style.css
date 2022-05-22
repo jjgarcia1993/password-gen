@@ -98,6 +98,11 @@ header {
   cursor: pointer;
 }
 
+.btn:hover {
+  color: #e27d60;
+  background-color: #85dcb8;
+}
+
 button {
   cursor: default;
   background: #c0c7cf;
